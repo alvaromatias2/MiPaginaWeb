@@ -78,8 +78,8 @@ box-shadow: 0 0 5px rgba(0, 0, 0, 0.0),
 
 /*ID's*/
 #aditional-container, #main-container{
-    padding-left: 2.5%;
-    padding-right: 2.5%;
+    padding-left: 5%;
+    padding-right: 5%;
 }
 #header-container{
     background-color: #3A6EBF;
